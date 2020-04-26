@@ -26,20 +26,6 @@ void Square::playMoveAnimation(char side)
 }
 
 
-void Square::playXAnimation()
-{
-    setAnimation(":/draw-red-X.gif");
-    playAnimationOnce();
-}
-
-
-void Square::playOAnimation()
-{
-    setAnimation(":/draw-blue-O.gif");
-    playAnimationOnce();
-}
-
-
 void Square::reset()
 {
     setState('.');

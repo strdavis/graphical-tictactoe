@@ -22,8 +22,6 @@ public:
 
 public slots:
     void playMoveAnimation(char side);
-    void playXAnimation();
-    void playOAnimation();
 
 private:
     int position;
