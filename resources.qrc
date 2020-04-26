@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="difficulty-select-screen.gif">resources/animations/difficulty-select-screen.gif</file>
+        <file alias="draw-blue-O.gif">resources/animations/draw-blue-O.gif</file>
+        <file alias="draw-grid.gif">resources/animations/draw-grid.gif</file>
+        <file alias="draw-red-X.gif">resources/animations/draw-red-X.gif</file>
+        <file alias="draw-strikethrough-0.gif">resources/animations/draw-strikethrough-0.gif</file>
+        <file alias="draw-strikethrough-1.gif">resources/animations/draw-strikethrough-1.gif</file>
+        <file alias="draw-strikethrough-2.gif">resources/animations/draw-strikethrough-2.gif</file>
+        <file alias="draw-strikethrough-3.gif">resources/animations/draw-strikethrough-3.gif</file>
+        <file alias="draw-strikethrough-4.gif">resources/animations/draw-strikethrough-4.gif</file>
+        <file alias="draw-strikethrough-5.gif">resources/animations/draw-strikethrough-5.gif</file>
+        <file alias="draw-strikethrough-6.gif">resources/animations/draw-strikethrough-6.gif</file>
+        <file alias="draw-strikethrough-7.gif">resources/animations/draw-strikethrough-7.gif</file>
+        <file alias="reset-grey.gif">resources/animations/reset-grey.gif</file>
+        <file alias="title-screen.gif">resources/animations/title-screen.gif</file>
+        <file alias="transparent-frame.gif">resources/animations/transparent-frame.gif</file>
+    </qresource>
+</RCC>
