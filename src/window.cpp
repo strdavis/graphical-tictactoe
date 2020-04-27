@@ -29,7 +29,7 @@
 #include "tictactoe.h"
 
 
-Window::Window(QWidget *parent) : QWidget(parent)
+Window::Window(QWidget *parent) : QWidget(parent), tictactoe(nullptr)
 {
     // Set up window.
     setWindowTitle("TicTacToe");
