@@ -7,7 +7,7 @@ Graphical TicTacToe is a cross-platform, animated tictactoe implementation writt
 ### To build, you need. . . 
 
 * [The latest stable version of open-source Qt](https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5).
-* An appropriate C++ compiler for your machine.
+* A C++ compiler for your machine.
 * qmake (included in Qt)
 * make or nmake
 
