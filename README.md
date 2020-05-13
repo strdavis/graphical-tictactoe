@@ -19,7 +19,8 @@ nmake  // Windows
 ```
 <br />
 Or, open the .pro file in Qt Creator (included in every installation of Qt), configure it using the latest version of Qt and the compiler of your choice, and build the project.
-<br /><br />
+<br /><br /><br />
+
 
 Graphical TicTacToe is licensed under the GNU General Public License v3.0
 
