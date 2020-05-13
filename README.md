@@ -4,14 +4,14 @@ Graphical TicTacToe is a cross-platform, animated tictactoe implementation writt
 <br /><br />
 
 
-### To build, get. . . 
+### To build, you need. . . 
 
 * [The latest stable version of open-source Qt](https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5).
 * A C++ compiler for your machine.
 * qmake (included in Qt)
 * make or nmake
 
-After downloading and installing Qt, download this repository and navigate to the root directory. From there, run the following commands:
+After downloading and installing Qt, navigate to the root directory of this repository. From there, run the following commands to build the project:
 ```
 qmake
 make   // Unix-based
