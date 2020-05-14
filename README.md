@@ -3,6 +3,8 @@
 Graphical TicTacToe is a cross-platform, animated tictactoe implementation written in C++ with Qt.
 <br /><br />
 
+![Gameplay Demo](demo/tictactoe-gameplay.gif)
+<br /><br />
 
 ### To build, you need. . . 
 
